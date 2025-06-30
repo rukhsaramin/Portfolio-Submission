@@ -1,4 +1,3 @@
-## CS 300 – Course-Sorting Project  
 Reflection Journal
 
 ### 1. What problem was I solving?
