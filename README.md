@@ -26,4 +26,3 @@ I’m leaning into:
 * **Readability** – clear variable names over clever one-letter shortcuts.  
 * **Adaptability** – if someone hands me a different file format tomorrow, I only touch the parser, not the whole program.
 
-Overall, this little sorter reminded me why I like coding: you feed in chaos, tweak a few lines, and out comes order. Feels good every time.
